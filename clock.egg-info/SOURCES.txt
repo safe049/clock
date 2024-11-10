@@ -1,3 +1,5 @@
+LICENSE
+README.md
 setup.py
 clock.egg-info/PKG-INFO
 clock.egg-info/SOURCES.txt

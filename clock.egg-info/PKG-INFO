@@ -8,3 +8,4 @@ Author-email: 1329261154@qq.com
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Requires-Python: >=3.6
+License-File: LICENSE
